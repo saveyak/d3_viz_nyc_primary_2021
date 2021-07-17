@@ -8,9 +8,9 @@ For voters, the process is straightforward. Put your favorite candidate as your 
 
 How to find out who won the election: 
 1) Look at every voter's 1st choice on their ballots.
-2) If no candidate has a majority, then the candidate with the least votes is eliminated. 
-3) If a voter's 1st choice is eliminated, their vote goes to their 2nd choice. 
-4) Continue to eliminate candidates and redistribute votes (based on 3rd choice, 4th choice, and eventually 5th choice) until one candidate has a majority.
+2) If no candidate has a majority, then the candidate with the least votes is eliminated. (Multiple candidates may be eliminated at one time if all of their votes combined are less than the next-ranked candidate.)
+3) If a voter's chosen candidate is eliminated, their vote goes to the next choice on their ballot. 
+4) Continue to eliminate candidates and redistribute votes until one candidate has a majority.
 
 In the New York Democratic primary race, it took eight rounds of elimination before Eric Adams was declared the winner.
 
